@@ -63,14 +63,14 @@ Physical | Mental | Social
 
 ### Active
 
-Name                  | Rating | Attribute | Spec | DP |
-----                       |------     |-------- -    |----|-- |
-Heavy Weapons | 4          | 4 | –           -  | 8 (10, smartlink) |
-Clubs                  | 4          | 4 | –           -  | 8 |
-Automatics         | 6           | 4 | –           - | 10  (12, smartlink) |
-Sneaking            | 5          | 4 | –            -  | 9 |
-Etiquette             | 3          | 3 | –            - | 6 |
-Perception          | 3           | 4 | -            -  | 7 (10, visual and audio) | 
+Name | Rating | Attribute | Spec | DP |
+---- |------|---------|----|-- |
+Heavy Weapons | 4 | 4 |--| 8 (10, smartlink) |
+Clubs                  | 4          | 4 |--| 8 |
+Automatics         | 6           | 4 |--| 10  (12, smartlink) |
+Sneaking            | 5          | 4 |--| 9 |
+Etiquette             | 3          | 3 |--| 6 |
+Perception          | 3           | 4 |--| 7 (10, visual and audio) | 
 
 
 
