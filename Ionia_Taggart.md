@@ -164,6 +164,15 @@ Helgi Crispus
 Connection: 1
 Loyalty: 2
 
+### Knowledge Skills: 16
+
+Name | Type | Rank | DP
+-----|-------|------|--
+Seattle | (Street) | 6 | 10,
+Corporate Security | (Street) | 5 | 9,
+Street Doctors |(Street) | 4 | 8,
+Gambling | (Street) | 1 | 5
+
 ## Positive Qualities:
 
 ### Catlike: 
